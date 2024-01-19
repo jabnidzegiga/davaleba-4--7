@@ -1,26 +1,17 @@
 .What{
-    color: red;
+    color: #F00;
 }
-
 .What2{
-    color: blue;
-    
-    }
-    .What3{
-        color: #00461C;
-    }
-    
-.paragraph1{
-    color: gray;
-}
-    
-.paragraph2{
-    color: blue;
+    color: #2400FF;
 }
 .What3{
     color: #00461C;
 }
-.paragraph3{
+.paragraph1{
+    color: #949494;
+}
+.paragraph2{
+    color: #FF2929;
+}.paragraph3{
     color: #000;
-
 }
